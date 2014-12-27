@@ -1,0 +1,39 @@
+{
+  "name": "vote-method-black",
+  "version": "0.0.2",
+  "description": "The black voting method for fair-voting-profile, elects a condercet winner, provided there is no cycle. Otherwise elects borda winner;",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "thirdcreed"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "shallow-copy": "0.0.1"
+  },
+  "_id": "vote-method-black@0.0.2",
+  "_shasum": "494c46578e3dd638dea771eae4bbbcdc90cf6d10",
+  "_from": "vote-method-black@*",
+  "_npmVersion": "2.1.12",
+  "_nodeVersion": "0.10.33",
+  "_npmUser": {
+    "name": "thirdcreed",
+    "email": "thirdcreed@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "thirdcreed",
+      "email": "thirdcreed@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "494c46578e3dd638dea771eae4bbbcdc90cf6d10",
+    "tarball": "http://registry.npmjs.org/vote-method-black/-/vote-method-black-0.0.2.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/vote-method-black/-/vote-method-black-0.0.2.tgz",
+  "readme": "ERROR: No README data found!"
+}
